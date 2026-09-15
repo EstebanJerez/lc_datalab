@@ -22,6 +22,7 @@ def main():
     print(f"Valor: {valor}")
     print(f"Clasificación: {clasificacion}")
 
+    
 
 if __name__ == "__main__":
     main()
