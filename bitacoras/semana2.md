@@ -45,3 +45,17 @@ Imagínate un termómetro en una habitación. Tenemos una temperatura ideal (por
   - Si no se ingresa el identificador del registro devuelve un error.
   - Si no se ingresa un valor de registro devuelve un error. 
   - Si no se ingresa un valor numerico devuelve un error.  
+
+  ## seudocodigo 
+
+    inicio
+
+        leer valor 
+        Si el usuario no registra un valor muestra "no se ingreso un valor para el registro"
+        Si el usuariono ingresa el identificador del registro muestra "no se ha ingresado un identificador de registro"
+        Si el valor es mayor o igual a 50 muestra "clasificacion igual ALTO"
+        Si no muestra "Clasificacion igual NORMAL"
+
+        Mostrar clasificacion 
+    
+    Fin
