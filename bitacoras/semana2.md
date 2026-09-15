@@ -46,7 +46,7 @@ Imagínate un termómetro en una habitación. Tenemos una temperatura ideal (por
   - Si no se ingresa un valor de registro devuelve un error. 
   - Si no se ingresa un valor numerico devuelve un error.  
 
-  ## seudocodigo 
+  ## pseudocodigo 
 
     inicio
 
