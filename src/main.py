@@ -21,6 +21,7 @@ def main():
     print(f"Registro: {registro_id}")
     print(f"Valor: {valor}")
     print(f"Clasificación: {clasificacion}")
+    
 
     
 
