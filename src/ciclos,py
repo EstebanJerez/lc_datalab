@@ -1,0 +1,18 @@
+from validaciones import validar_nombre, validar_correo, validar_rango
+
+nombre = input("Ingrese su nombre: ")
+correo = input("Ingrese su correo: ")
+edad = int(input("Ingrese su edad: "))
+
+print(validar_nombre(nombre))
+print(validar_correo(correo))
+print(validar_rango(edad, 0, 120))
+
+import validaciones
+
+nombre = input("Ingrese su nombre: ")
+
+if validaciones.validar_nombre(nombre):
+    print("Nombre válido")
+else:
+    print("Nombre inválido")
