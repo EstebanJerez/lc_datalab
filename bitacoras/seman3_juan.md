@@ -1,4 +1,4 @@
-## Ejemplo con validacion de cuantos caracteres cuenta un texto para crear un ID  
+git sta## Ejemplo con validacion de cuantos caracteres cuenta un texto para crear un ID  
 
 
 print("nombre de usuario")
